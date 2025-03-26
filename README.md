@@ -1,7 +1,8 @@
-## Hello! 🌼
+## Hello! 🥀
 
 # 💫 About Me:
-🌱 I’m currently learning backend framework node.js <br>💬 Ask me about 
+🌱 I’m currently learning backend framework node.js <br>💬 Ask me about
+✨ Find my live projects on github pages
 
 
 ## 🌐 Socials:
