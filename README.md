@@ -39,8 +39,9 @@
 ---
 
 ##  Featured Projects  
-- **Portfolio Website (TS + React + TailwindCSS)** – Dynamic theme switcher, live showcase, and customization options  
-- **AI-Powered Chatbot (JavaScript + TensorFlow.js)** – Real-time Q&A for educational support  
+- **Portfolio Builder (Typescript + Next.js + TailwindCSS)** – The complete no-code solution that will change how developers create their online presence!  
+- **Unsent Letters (Next.js + Node.js + Supabase)** – An Anonymous Confession Website 💌
+A place where you can send a message to someone you care about completely anonymously.  
 - **Impact-ful ML Tool (Python + Flask)** – Predictive analytics for community health initiatives  
 - **Notes App (TypeScript + React + LocalStorage)** – Theming, categorization, and offline-first features  
 - **Card Generator Game (JavaScript)** – Interactive, rarity-based gameplay with animation  
