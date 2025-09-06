@@ -39,7 +39,7 @@
 ---
 
 ##  Featured Projects  
-- **<a href="https://complete-portfolio-builder.netlify.app">Portfolio Builder M/a>(Typescript + Next.js + TailwindCSS)** – The complete no-code solution that will change how developers create their online presence!
+- **<a href="https://complete-portfolio-builder.netlify.app">Portfolio Builder </a>(Typescript + Next.js + TailwindCSS)** – The complete no-code solution that will change how developers create their online presence!
 - **Unsent Letters (Next.js + Node.js + Supabase)** – An Anonymous Confession Website 💌
 A place where you can send a message to someone you care about completely anonymously.  
 - **Impact-ful ML Tool (Python + Flask)** – Predictive analytics for community health initiatives  
