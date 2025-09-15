@@ -1,7 +1,7 @@
-# Hey, I'm Kunal-shetty 🔥
+# Hey, I'm Kunal-shetty ✨
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #e5e7eb;">
+  <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #444;">
 </div>
 
 ## About Me
@@ -10,20 +10,20 @@ I'm Kunal-shetty, a developer who builds with TypeScript, HTML, JavaScript. Late
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-00FFFF?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-00FFFF?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-00FFFF?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=cplusplus&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=transparent&title_color=1f2937&text_color=374151&icon_color=111827" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=dark&title_color=F59E0B&text_color=CCCCCC&icon_color=F59E0B" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-shetty&theme=transparent&stroke=9ca3af&ring=111827&fire=111827&currStreakLabel=111827" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-shetty&theme=dark&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=transparent&title_color=1f2937&text_color=374151" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=dark&title_color=F59E0B&text_color=CCCCCC" alt="Top Languages" />
 </div>
 
 ## Featured Projects
