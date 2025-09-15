@@ -1,4 +1,4 @@
-# Hey, I'm Kunal-shetty 📦
+# Hey, I'm Kunal-shetty 🔆
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #444;">
@@ -6,14 +6,14 @@
 
 ## About Me ✨
 
-I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipping thoughtful experiences. Lately, I've been working on Soilmate, resume-builder.
+I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipping thoughtful experiences. Lately, I've been working on K.
 
 
 
 
 ## Tech Stack 🧰
 
-![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## GitHub Stats 📊
 
@@ -32,33 +32,9 @@ I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipp
 ## Featured Projects 🚀
 
 
-### 🚀 [Soilmate](https://github.com/kunal-shetty/Soilmate)
+### 🚀 [K](https://github.com/kunal-shetty/K)
 No description available
 - **Language:** N/A
-
-
-
-### 🚀 [resume-builder](https://github.com/kunal-shetty/resume-builder)
-No description available
-- **Language:** TypeScript
-
-
-
-### 🚀 [letters](https://github.com/kunal-shetty/letters)
-No description available
-- **Language:** TypeScript
-
-
-
-### 🚀 [notes-app](https://github.com/kunal-shetty/notes-app)
-A modern, minimal Notes App built with HTML, CSS & JavaScript. Features include light/dark mode, localStorage saving, and mobile-optimized UI.
-- **Language:** CSS
-
-
-
-### 🚀 [cats](https://github.com/kunal-shetty/cats)
-No description available
-- **Language:** HTML
 
 
 
