@@ -1,4 +1,4 @@
-# Hey, I'm Kunal-shetty 🔆
+# Hey, I'm Kunal-shetty 📦
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #444;">
@@ -6,14 +6,14 @@
 
 ## About Me ✨
 
-I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipping thoughtful experiences. Lately, I've been working on Soilmate, soilmate-dashboard.
+I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipping thoughtful experiences. Lately, I've been working on Soilmate, resume-builder.
 
 
 
 
 ## Tech Stack 🧰
 
-![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML?style=for-the-badge&logo=html5) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ## GitHub Stats 📊
 
@@ -38,31 +38,25 @@ No description available
 
 
 
-### 🚀 [soilmate-dashboard](https://github.com/kunal-shetty/soilmate-dashboard)
-No description available
-- **Language:** TypeScript
-
-
-
 ### 🚀 [resume-builder](https://github.com/kunal-shetty/resume-builder)
 No description available
 - **Language:** TypeScript
 
 
 
-### 🚀 [face-emotion-detection](https://github.com/kunal-shetty/face-emotion-detection)
+### 🚀 [letters](https://github.com/kunal-shetty/letters)
 No description available
-- **Language:** Python
+- **Language:** TypeScript
 
 
 
-### 🚀 [K](https://github.com/kunal-shetty/K)
-No description available
-- **Language:** N/A
+### 🚀 [notes-app](https://github.com/kunal-shetty/notes-app)
+A modern, minimal Notes App built with HTML, CSS & JavaScript. Features include light/dark mode, localStorage saving, and mobile-optimized UI.
+- **Language:** CSS
 
 
 
-### 🚀 [kunal](https://github.com/kunal-shetty/kunal)
+### 🚀 [cats](https://github.com/kunal-shetty/cats)
 No description available
 - **Language:** HTML
 
@@ -75,6 +69,8 @@ No description available
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-shetty)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-shetty-146287320/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunaaallllllllllllllllll)
 
 </div>
 
