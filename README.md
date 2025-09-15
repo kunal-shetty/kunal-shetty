@@ -13,7 +13,7 @@ I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipp
 
 ## Tech Stack 🧰
 
-![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML?style=for-the-badge&logo=html5) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ## GitHub Stats 📊
 
