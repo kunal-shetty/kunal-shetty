@@ -1,18 +1,21 @@
-# Hey, I'm Kunal-shetty ✨
+# Hey, I'm Kunal-shetty 🔆
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #444;">
 </div>
 
-## About Me
+## About Me ✨
 
-I'm Kunal-shetty, a developer who builds with TypeScript, HTML, JavaScript. Lately, I've been focusing on Soilmate, soilmate-dashboard.
+I'm Kunal-shetty — I love building with TypeScript, HTML, JavaScript and shipping thoughtful experiences. Lately, I've been working on Soilmate, soilmate-dashboard.
 
-## Tech Stack
+
+
+
+## Tech Stack 🧰
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-F59E0B?style=for-the-badge&logo=html5&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F59E0B?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-F59E0B?style=for-the-badge&logo=python&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-F59E0B?style=for-the-badge&logo=css3&logoColor=black) ![Java](https://img.shields.io/badge/Java-F59E0B?style=for-the-badge&logo=java&logoColor=black) ![C++](https://img.shields.io/badge/C++-F59E0B?style=for-the-badge&logo=cplusplus&logoColor=black)
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=dark&title_color=F59E0B&text_color=CCCCCC&icon_color=F59E0B" alt="GitHub Stats" />
@@ -26,7 +29,7 @@ I'm Kunal-shetty, a developer who builds with TypeScript, HTML, JavaScript. Late
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=dark&title_color=F59E0B&text_color=CCCCCC" alt="Top Languages" />
 </div>
 
-## Featured Projects
+## Featured Projects 🚀
 
 
 ### 🚀 [Soilmate](https://github.com/kunal-shetty/Soilmate)
@@ -65,7 +68,7 @@ No description available
 
 
 
-## Connect With Me
+## Connect With Me 🤝
 
 <div align="center">
   
