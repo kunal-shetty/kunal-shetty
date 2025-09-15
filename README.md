@@ -1,4 +1,4 @@
-# Hey, I'm Kunal-shetty 🚀
+# Hey, I'm Kunal-shetty 🔥
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/176825556?v=4" alt="Profile Avatar" width="140" height="140" style="border-radius: 50%; border: 2px solid #e5e7eb;">
