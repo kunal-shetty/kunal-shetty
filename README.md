@@ -46,11 +46,6 @@
 ## Featured Projects  
 - **<a href="https://complete-portfolio-builder.netlify.app">Portfolio Builder</a> (TypeScript + Next.js + TailwindCSS)** – No-code solution to create stunning developer portfolios with live preview and customization.  
 - **Unsent Letters (Next.js + Node.js + Supabase)** – Anonymous confession website 💌 to send heartfelt messages safely.  
-- **Impact-ful ML Tool (Python + Flask)** – Predictive analytics for community health and social initiatives.  
-- **Notes App (TypeScript + React + LocalStorage)** – Categorization, theming, and offline-first note-taking.  
-- **Card Generator Game (JavaScript)** – Fun, interactive game with card rarity, animation, and dynamic UI.  
-- **AI Chatbot (JavaScript + TensorFlow.js)** – Intelligent Q&A bot for educational and real-world applications.
-
 ---
 
 ## GitHub Stats  
