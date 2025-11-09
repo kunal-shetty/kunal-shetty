@@ -5,7 +5,7 @@
 **Full-Stack Developer • AI/ML Enthusiast • Real-World Impact Maker**
 
 💡 I build modern, scalable, and user-focused applications using **TypeScript**, **JavaScript**, and AI/ML techniques  
-🌱 Exploring **AI-powered solutions** and innovative projects that solve real-world problems  
+🌱 Exploring **AI-powered solutions** and innovative projects that  solve real-world problems  
 🚀 Passionate about **bridging creativity with technology** and delivering meaningful digital products  
 🎯 Experienced in **C++, Python, SQL**, and designing full-stack applications with **React, Next.js, and Node.js**  
 📈 Focused on **optimizing performance, improving UX**, and turning ideas into high-impact solutions  
