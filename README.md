@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Animated Gradient Heading -->
-<h1 align="center">
-  Hi, I'm Kunal! 🥀
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=10000000000&color=F72585&center=true&vCenter=true&width=500&lines=Hi, I'm Kunal!" />
+</p>
 
 <!-- Rotating Text Underneath -->
 <p align="center">
