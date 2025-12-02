@@ -2,7 +2,7 @@
 
 <!-- Animated Gradient Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=F72585&center=true&vCenter=true&width=500&lines=Hi, I'm Kunal!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=0&color=F72585&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kunal!" />
 </p>
 
 <!-- Rotating Text Underneath -->
