@@ -87,7 +87,6 @@
 
 ## 🚀 Live Projects
 </div>  <!-- CLOSE CENTER ALIGN WRAPPER -->
----
 
 ### 🌫️ **[AQI Monitoring Platform](https://aqi-monitoring-app.vercel.app/)**  
 A real-time air quality tracker using AQICN API. Supports city/country search, geolocation, pollutant breakdown, AQI predictions, and personalized health recommendations.
