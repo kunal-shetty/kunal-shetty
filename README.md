@@ -84,32 +84,35 @@
 
 ---
 
+</div>  <!-- CLOSE CENTER ALIGN WRAPPER -->
+
 ## 🚀 Live Projects
 
-### 🔹 **[AQI Monitoring Platform](https://lnkd.in/d8UhxFcT)**  
-🌍 A real-time air quality monitoring system powered by the AQICN API. Search by city/country or use geolocation to view AQI, pollutant breakdown, predictions, and personalized health recommendations.
+### 🌫️ **[AQI Monitoring Platform](https://lnkd.in/d8UhxFcT)**  
+A real-time air quality tracker using AQICN API. Supports city/country search, geolocation, pollutant breakdown, AQI predictions, and personalized health recommendations.
 
 ---
 
-### 🔹 **[SolvAI – AI-Powered Calculator](https://solvai.live)**  
-🧠 An advanced math solver using the Wolfram Alpha API. Supports complex equations, step-by-step computation, and an interactive, user-friendly interface.
+### 🧮 **[SolvAI – AI-Powered Calculator](https://solvai.live)**  
+A next-level calculator powered by Wolfram Alpha API. Handles complex equations with accuracy and delivers clean, interactive step-by-step solutions.
 
 ---
 
-### 🔹 **[Design-to-Code Generator (Demo)](https://lnkd.in/dWijtUUC)**  
-✨ Upload a Figma file or image and instantly generate a complete Next.js codebase. Includes theme switching, responsive UI, built-in games (TicTacToe & Snake) during processing, and live preview of the generated site.
+### 🖼️ **[Design-to-Code Generator (Demo)](https://lnkd.in/dWijtUUC)**  
+Upload a Figma file or image and instantly generate a full Next.js codebase. Includes theme switching, responsive UI, built-in mini-games, and live preview of the generated site.  
 
 ---
 
-### 🔹 **[Portfolio Builder](https://complete-portfolio-builder.netlify.app)**  
-✨ No-code tool to create beautiful developer portfolios with live preview, customization, and instant export.
+### 🧰 **[Portfolio Builder](https://complete-portfolio-builder.netlify.app)**  
+A no-code tool to create beautiful developer portfolios with live preview, customization, and one-click export.
 
 ---
 
-### 🔹 **Unsent Letters (Next.js + Supabase)**  
-💌 An anonymous confession platform designed for safe, heartfelt message sharing.
+### 💌 **Unsent Letters (Next.js + Supabase)**  
+An anonymous platform for sending heartfelt, private confessions safely and beautifully.
 
----
+<div align="center"> <!-- OPTIONAL: REOPEN CENTER ALIGN FOR NEXT SECTIONS -->
+
 
 ## 📊 GitHub Stats
 
