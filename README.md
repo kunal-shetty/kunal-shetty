@@ -1,64 +1,118 @@
 <div align="center">
 
-# Hi, I'm Kunal! 🥀  
+<!-- Animated Gradient Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=F72585&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kunal!+🥀;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Technologist" />
+</h1>
 
-**Full-Stack Developer • AI/ML Enthusiast • Real-World Impact Maker**
-
-💡 I build modern, scalable, and user-focused applications using **TypeScript**, **JavaScript**, and AI/ML techniques  
-🌱 Exploring **AI-powered solutions** and innovative projects that  solve real-world problems  
-🚀 Passionate about **bridging creativity with technology** and delivering meaningful digital products  
-🎯 Experienced in **C++, Python, SQL**, and designing full-stack applications with **React, Next.js, and Node.js**  
-📈 Focused on **optimizing performance, improving UX**, and turning ideas into high-impact solutions  
-
-✨ Check out my live projects on [GitHub Pages](https://kunal-shetty.github.io)
+<!-- Sub-heading with glow -->
+<h3 style="font-weight:600;">
+  ⚡ Bridging Creativity & Technology — Building meaningful, real-world solutions
+</h3>
 
 ---
 
-## Connect With Me  
-<a href="https://instagram.com/kunaaallllllllllllllllll">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kunal-shetty-146287320/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/kunal-shetty">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## ✨ About Me  
+🌟 I build modern, scalable and user-focused applications using **JavaScript**, **TypeScript**, and **AI/ML**  
+🌱 Exploring **AI-powered systems**, intuitive UX, and high-performance web apps  
+🚀 Passionate about turning ideas into **high-impact digital products**  
+💻 Experienced in **C++, Python, SQL, React, Next.js, Node.js**  
+🎨 Obsessed with elegant UI/UX and smooth interactive experiences  
 
 ---
 
-## Tech Stack  
-
-### Frontend  
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & AI  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Databases & Storage  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%2300AB6C.svg?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools & Design  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## Featured Projects  
-- **<a href="https://complete-portfolio-builder.netlify.app">Portfolio Builder</a> (TypeScript + Next.js + TailwindCSS)** – No-code solution to create stunning developer portfolios with live preview and customization.  
-- **Unsent Letters (Next.js + Node.js + Supabase)** – Anonymous confession website 💌 to send heartfelt messages safely.  
----
-
-## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=false" height="160px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>  
-
----
+## 🔗 Connect With Me  
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kunal-shetty&icon=0&color=0" />
+  <a href="https://instagram.com/kunaaallllllllllllllllll">
+    <img src="https://img.shields.io/badge/Instagram-F92672?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-shetty-146287320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kunal-shetty">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+# 🛠️ Tech Stack
+
+<!-- Floating badges animation -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/robinuniverse/robinuniverse/master/assets/floating.svg" width="0" height="0">
+
+### 🌐 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🔥 Backend & AI  
+![Node](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Torch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-00C792?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧩 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects  
+Here are some of my favorite builds:
+
+### 🔹 **[Portfolio Builder](https://complete-portfolio-builder.netlify.app)**  
+✨ No-code tool to build beautiful dev portfolios with live preview & instant export.
+
+### 🔹 **Unsent Letters (Next.js + Supabase)**  
+💌 Anonymous confession website where people can express their emotions safely.
+
+---
+
+# 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&theme=tokyonight&hide_border=false&count_private=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-shetty&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&theme=tokyonight&layout=compact" height="160">
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kunal-shetty&icon=0&color=6" />
+</p>
+
+---
+
+<!-- CUSTOM ANIMATED CSS -->
+<style>
+h1, h3 {
+  animation: glow 2s ease-in-out infinite alternate;
+}
+@keyframes glow {
+  from { text-shadow: 0 0 10px #ff69b4; }
+  to { text-shadow: 0 0 20px #ff69b4; }
+}
+</style>
 
 </div>
