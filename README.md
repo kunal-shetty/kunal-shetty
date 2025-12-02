@@ -33,13 +33,16 @@
   <a href="https://instagram.com/kunaaallllllllllllllllll">
     <img src="https://img.shields.io/badge/Instagram-F92672?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/kunal-shetty-146287320/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kunal-shetty">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+
+  <a href="https://leetcode.com/u/kunaallll/">
+    <img src="https://img.shields.io/badge/LeetCode-kunaallll-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
