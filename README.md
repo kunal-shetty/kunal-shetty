@@ -66,7 +66,6 @@
 ![Node](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Torch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 🗄️ Databases  
@@ -85,14 +84,30 @@
 
 ---
 
-# 🚀 Featured Projects  
-Here are some of my favorite builds:
+## 🚀 Live Projects
+
+### 🔹 **[AQI Monitoring Platform](https://lnkd.in/d8UhxFcT)**  
+🌍 A real-time air quality monitoring system powered by the AQICN API. Search by city/country or use geolocation to view AQI, pollutant breakdown, predictions, and personalized health recommendations.
+
+---
+
+### 🔹 **[SolvAI – AI-Powered Calculator](https://solvai.live)**  
+🧠 An advanced math solver using the Wolfram Alpha API. Supports complex equations, step-by-step computation, and an interactive, user-friendly interface.
+
+---
+
+### 🔹 **[Design-to-Code Generator (Demo)](https://lnkd.in/dWijtUUC)**  
+✨ Upload a Figma file or image and instantly generate a complete Next.js codebase. Includes theme switching, responsive UI, built-in games (TicTacToe & Snake) during processing, and live preview of the generated site.
+
+---
 
 ### 🔹 **[Portfolio Builder](https://complete-portfolio-builder.netlify.app)**  
-✨ No-code tool to build beautiful dev portfolios with live preview & instant export.
+✨ No-code tool to create beautiful developer portfolios with live preview, customization, and instant export.
+
+---
 
 ### 🔹 **Unsent Letters (Next.js + Supabase)**  
-💌 Anonymous confession website where people can express their emotions safely.
+💌 An anonymous confession platform designed for safe, heartfelt message sharing.
 
 ---
 
