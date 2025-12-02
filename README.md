@@ -98,9 +98,6 @@ Here are some of my favorite builds:
 
 ## 📊 GitHub Stats
 
-## GitHub Stats 
-
 <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=false" height="160px"/> 
----
 
 </div>
