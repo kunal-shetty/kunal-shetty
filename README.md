@@ -96,20 +96,7 @@ Here are some of my favorite builds:
 
 ---
 
-# 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&theme=tokyonight&hide_border=false&count_private=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-shetty&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&theme=tokyonight&layout=compact" height="160">
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kunal-shetty&icon=0&color=6" />
-</p>
+## GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/> <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=false" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/> ---
 
 ---
 
