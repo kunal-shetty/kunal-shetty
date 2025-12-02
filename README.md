@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://leetcode.com/u/kunaallll/">
-    <img src="https://img.shields.io/badge/LeetCode-kunaallll-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
