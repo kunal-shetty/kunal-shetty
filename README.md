@@ -84,11 +84,11 @@
 
 ---
 
-</div>  <!-- CLOSE CENTER ALIGN WRAPPER -->
 
 ## 🚀 Live Projects
+</div>  <!-- CLOSE CENTER ALIGN WRAPPER -->
 
-### 🌫️ **[AQI Monitoring Platform](https://lnkd.in/d8UhxFcT)**  
+### 🌫️ **[AQI Monitoring Platform](https://aqi-monitoring-app.vercel.app/)**  
 A real-time air quality tracker using AQICN API. Supports city/country search, geolocation, pollutant breakdown, AQI predictions, and personalized health recommendations.
 
 ---
@@ -98,7 +98,7 @@ A next-level calculator powered by Wolfram Alpha API. Handles complex equations 
 
 ---
 
-### 🖼️ **[Design-to-Code Generator (Demo)](https://lnkd.in/dWijtUUC)**  
+### 🖼️ **[Design-to-Code Generator (Demo)](https://layoutrix.netlify.app)**  
 Upload a Figma file or image and instantly generate a full Next.js codebase. Includes theme switching, responsive UI, built-in mini-games, and live preview of the generated site.  
 
 ---
@@ -108,7 +108,7 @@ A no-code tool to create beautiful developer portfolios with live preview, custo
 
 ---
 
-### 💌 **Unsent Letters (Next.js + Supabase)**  
+### 💌 **Unsent Letters (https://unsent-letters.xyz)**  
 An anonymous platform for sending heartfelt, private confessions safely and beautifully.
 
 <div align="center"> <!-- OPTIONAL: REOPEN CENTER ALIGN FOR NEXT SECTIONS -->
