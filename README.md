@@ -113,6 +113,7 @@ An anonymous platform for sending heartfelt, private confessions safely and beau
 
 <div align="center"> <!-- OPTIONAL: REOPEN CENTER ALIGN FOR NEXT SECTIONS -->
 
+---
 
 ## 📊 GitHub Stats
 
