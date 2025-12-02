@@ -87,25 +87,22 @@
 
 ## 🚀 Live Projects
 </div>  <!-- CLOSE CENTER ALIGN WRAPPER -->
+---
 
 ### 🌫️ **[AQI Monitoring Platform](https://aqi-monitoring-app.vercel.app/)**  
 A real-time air quality tracker using AQICN API. Supports city/country search, geolocation, pollutant breakdown, AQI predictions, and personalized health recommendations.
-
 ---
 
 ### 🧮 **[SolvAI – AI-Powered Calculator](https://solvai.live)**  
 A next-level calculator powered by Wolfram Alpha API. Handles complex equations with accuracy and delivers clean, interactive step-by-step solutions.
-
 ---
 
 ### 🖼️ **[Design-to-Code Generator (Demo)](https://layoutrix.netlify.app)**  
 Upload a Figma file or image and instantly generate a full Next.js codebase. Includes theme switching, responsive UI, built-in mini-games, and live preview of the generated site.  
-
 ---
 
 ### 🧰 **[Portfolio Builder](https://complete-portfolio-builder.netlify.app)**  
 A no-code tool to create beautiful developer portfolios with live preview, customization, and one-click export.
-
 ---
 
 ### 💌 **Unsent Letters (https://unsent-letters.xyz)**  
