@@ -108,7 +108,7 @@ A no-code tool to create beautiful developer portfolios with live preview, custo
 
 ---
 
-### 💌 **Unsent Letters (https://unsent-letters.xyz)**  
+### 💌 **[Unsent Letters](https://unsent-letters.xyz)**  
 An anonymous platform for sending heartfelt, private confessions safely and beautifully.
 
 <div align="center"> <!-- OPTIONAL: REOPEN CENTER ALIGN FOR NEXT SECTIONS -->
