@@ -1,9 +1,15 @@
 <div align="center">
 
-<!-- Animated Gradient Heading -->
+<!-- Hi I'm Kunal — type once and stay -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=0&pause=0&color=F72585&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kunal!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&pause=999999999&color=F72585&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kunal!" />
 </p>
+
+<!-- Rotating Text Underneath -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Technologist;Problem+Solver;UX-Driven+Engineer" />
+</p>
+
 
 <!-- Rotating Text Underneath -->
 <p align="center">
