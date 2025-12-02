@@ -100,8 +100,7 @@ Here are some of my favorite builds:
 
 ## GitHub Stats 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160px"/> <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=false" height="160px"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=false" height="160px"/> 
 ---
 
 </div>
