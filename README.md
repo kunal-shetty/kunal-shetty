@@ -2,8 +2,14 @@
 
 <!-- Animated Gradient Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3500&color=F72585&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kunal!+🥀;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Technologist" />
+  Hi, I'm Kunal! 🥀
 </h1>
+
+<!-- Rotating Text Underneath -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Technologist;Problem+Solver;UX-Driven+Engineer" />
+</p>
+
 
 <!-- Sub-heading with glow -->
 <h3 style="font-weight:600;">
