@@ -100,7 +100,7 @@ Anonymous platform designed for sharing private messages and emotional expressio
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Developer%20Metrics&textBg=false&fontAlign=50&animation=scaleIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Developer%Metrics&textBg=false&fontAlign=50&animation=scaleIn&fontColor=FFFFFF&fontSize=22&section=header&reversal=true"/>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" width="48%" />
@@ -109,7 +109,7 @@ Anonymous platform designed for sharing private messages and emotional expressio
 
 ---
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Developer%20Metrics&textBg=false&fontAlign=50&animation=scaleIn&fontColor=FFFFFF&fontSize=22&section=header&reversal=true)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <p align="center">
 Code is not just about logic, it is about experience.
