@@ -1,9 +1,9 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <!-- Animated Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=F72585&center=true&vCenter=true&width=800&lines=Hi+I'm+Kunal+Shetty;Full-Stack+Developer;AI+%2F+ML+Explorer;Building+Products+That+Matter" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <h3 align="center">
 Bridging creativity and technology to build meaningful, real-world products
