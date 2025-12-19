@@ -100,7 +100,7 @@ Anonymous platform designed for sharing private messages and emotional expressio
 
 ---
 
-### Developer Metrics
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=gradient&text=Developer%20Metrics&textBg=false&fontAlign=50&animation=scaleIn"/>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" width="48%" />
