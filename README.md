@@ -109,7 +109,7 @@ Anonymous platform designed for sharing private messages and emotional expressio
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Developer%20Metrics&textBg=false&fontAlign=50&animation=scaleIn&fontColor=FFFFFF&fontSize=22&section=header&reversal=true)"/>
 
 <p align="center">
 Code is not just about logic, it is about experience.
