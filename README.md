@@ -1,18 +1,23 @@
 <div align="center">
 
-<!-- Header Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kunal;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Creative+Technologist" />
-</p>
+<!-- Animated Intro -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=F72585&center=true&vCenter=true&width=800&lines=Hi+I'm+Kunal+Shetty;Full-Stack+Developer;AI+%2F+ML+Explorer;Building+Products+That+Matter" />
 
-<h3> ⚡ Bridging Creativity & Technology — Building meaningful, real-world solutions </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
+<h3 align="center">
+Bridging creativity and technology to build meaningful, real-world products
+</h3>
+
+<br/>
+
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-shetty-146287320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/kunaallll/">
-    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://instagram.com/kunaaallllllllllllllllll">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -21,89 +26,93 @@
 
 ---
 
-<!-- Summary Grid -->
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✨ About Me</h3>
-      <ul>
-        <li>🌟 Building modern, scalable apps with <b>React & Next.js</b></li>
-        <li>🌱 Currently exploring <b>AI-powered systems</b> & LLM Agent Architecture</li>
-        <li>🎨 Obsessed with <b>Fluid UI/UX</b> and motion design</li>
-        <li>🚀 Turning complex problems into <b>high-impact products</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Quick Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,supabase,py,pytorch,cpp,git,docker,figma" />
-</div>
-
----
-
-### 📂 Featured Projects
-
-<!-- Project Grid -->
 <table>
-  <tr>
-    <td width="50%">
-      <p align="center"><b>🌫️ AQI Monitoring</b></p>
-      <p>Real-time air quality tracker with health recommendations & pollutant breakdown.</p>
-      <p align="center">
-        <a href="https://aqi-monitoring-app.vercel.app/"><b>Live Demo</b></a> • 
-        <a href="#"><b>Repo</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center"><b>🧮 SolvAI</b></p>
-      <p>Next-level AI calculator solving complex equations via Wolfram Alpha API.</p>
-      <p align="center">
-        <a href="https://solvai.live"><b>Live Demo</b></a> • 
-        <a href="#"><b>Repo</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <p align="center"><b>🖼️ Layoutrix</b></p>
-      <p>Design-to-Code generator turning UI snapshots into Next.js codebases.</p>
-      <p align="center">
-        <a href="https://layoutrix.netlify.app"><b>Live Demo</b></a> • 
-        <a href="#"><b>Repo</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="center"><b>💌 Unsent Letters</b></p>
-      <p>An anonymous platform for sending heartfelt, private confessions safely.</p>
-      <p align="center">
-        <a href="https://unsent-letters.xyz"><b>Live Demo</b></a> • 
-        <a href="#"><b>Repo</b></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### About Me
+
+I am a Full-Stack Developer focused on building clean, scalable, and user-centric products.
+
+I work primarily with React, Next.js, and Node.js to deliver modern web applications, while continuously exploring AI-powered systems and intelligent workflows.
+
+I place strong emphasis on performance, architecture, and UI/UX, and enjoy transforming complex problems into simple, high-impact solutions.
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📊 Performance Metrics
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,supabase,py,pytorch,cpp,docker,git,figma&theme=dark" />
+</p>
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<strong>AQI Monitoring</strong><br/>
+Real-time air quality monitoring platform with health-based recommendations and pollutant breakdowns.<br/><br/>
+<a href="https://aqi-monitoring-app.vercel.app/">Live Demo</a>
+
+</td>
+
+<td width="50%">
+
+<strong>SolvAI</strong><br/>
+AI-powered calculator capable of solving advanced mathematical queries using the Wolfram Alpha API.<br/><br/>
+<a href="https://solvai.live">Live Demo</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<strong>Layoutrix</strong><br/>
+Design-to-code system that converts UI layouts into structured Next.js codebases.<br/><br/>
+<a href="https://layoutrix.netlify.app">Live Demo</a>
+
+</td>
+
+<td width="50%">
+
+<strong>Unsent Letters</strong><br/>
+Anonymous platform designed for sharing private messages and emotional expressions securely.<br/><br/>
+<a href="https://unsent-letters.xyz">Live Demo</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Developer Metrics
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="45%" />
 </p>
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+Code is not just about logic, it is about experience.
 </p>
 
 </div>
-
