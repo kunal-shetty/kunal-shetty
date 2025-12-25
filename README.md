@@ -1,48 +1,56 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<!-- Animated Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=F72585&center=true&vCenter=true&width=800&lines=Hi+I'm+Kunal+Shetty;Full-Stack+Developer;AI+%2F+ML+Explorer;Building+Products+That+Matter" />
+<!-- Top Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
 
+<!-- Typing Intro -->
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=F72585&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kunal+Shetty;Full-Stack+Developer;AI+%2F+ML+Explorer;Building+Products+That+Matter" 
+/>
+
+<br/>
 
 <h3 align="center">
-Bridging creativity and technology to build meaningful, real-world products
+  Bridging creativity and technology to craft meaningful digital experiences
 </h3>
 
 <br/>
 
-<!-- Social Links -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunal-shetty-146287320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kunal-shetty-146287320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/kunaallll/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/kunaallll/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://instagram.com/kunaaallllllllllllllllll">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/kunaaallllllllllllllllll" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<table>
+<!-- About + Stats -->
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### About Me
+## 👋 About Me
 
-I am a Full-Stack Developer focused on building clean, scalable, and user-centric products.
+I’m a **Full-Stack Developer** focused on building **clean, scalable, and user-centric products**.
 
-I work primarily with React, Next.js, and Node.js to deliver modern web applications, while continuously exploring AI-powered systems and intelligent workflows.
+My core stack revolves around **React, Next.js, and Node.js**, with a growing passion for **AI-powered systems and intelligent workflows**.
 
-I place strong emphasis on performance, architecture, and UI/UX, and enjoy transforming complex problems into simple, high-impact solutions.
+I care deeply about **performance, architecture, and UI/UX**, and I enjoy turning complex problems into **simple, high-impact solutions**.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0" 
+/>
 
 </td>
 </tr>
@@ -50,49 +58,55 @@ I place strong emphasis on performance, architecture, and UI/UX, and enjoy trans
 
 ---
 
-### Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,supabase,py,pytorch,cpp,docker,git,figma&theme=dark" />
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,supabase,py,pytorch,cpp,docker,git,figma&theme=dark" 
+  />
 </p>
 
 ---
 
-### Featured Projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<strong>AQI Monitoring</strong><br/>
-Real-time air quality monitoring platform with health-based recommendations and pollutant breakdowns.<br/><br/>
-<a href="https://aqi-monitoring-app.vercel.app/">Live Demo</a>
+### 🌍 AQI Monitoring  
+Real-time air quality monitoring platform with health-based recommendations and pollutant insights.  
+
+🔗 <a href="https://aqi-monitoring-app.vercel.app/" target="_blank">Live Demo</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<strong>SolvAI</strong><br/>
-AI-powered calculator capable of solving advanced mathematical queries using the Wolfram Alpha API.<br/><br/>
-<a href="https://solvai.live">Live Demo</a>
+### 🧠 SolvAI  
+AI-powered calculator solving advanced mathematical queries using the Wolfram Alpha API.  
+
+🔗 <a href="https://solvai.live" target="_blank">Live Demo</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<strong>Layoutrix</strong><br/>
-Design-to-code system that converts UI layouts into structured Next.js codebases.<br/><br/>
-<a href="https://layoutrix.netlify.app">Live Demo</a>
+### 🎨 Layoutrix  
+Design-to-code system that converts UI layouts into structured Next.js codebases.  
+
+🔗 <a href="https://layoutrix.netlify.app" target="_blank">Live Demo</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<strong>Unsent Letters</strong><br/>
-Anonymous platform designed for sharing private messages and emotional expressions securely.<br/><br/>
-<a href="https://unsent-letters.xyz">Live Demo</a>
+### 💌 Unsent Letters  
+Anonymous platform for sharing private messages and emotional expressions securely.  
+
+🔗 <a href="https://unsent-letters.xyz" target="_blank">Live Demo</a>
 
 </td>
 </tr>
@@ -100,19 +114,29 @@ Anonymous platform designed for sharing private messages and emotional expressio
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Developer%Metrics&textBg=false&fontAlign=50&animation=scaleIn&fontColor=FFFFFF&fontSize=22&section=header&reversal=true"/>
+<!-- Metrics Header -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&text=Developer%20Metrics&fontAlign=50&animation=fadeIn&fontColor=FFFFFF&fontSize=24&section=header&reversal=true"
+/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" width="45%" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" 
+    width="45%" 
+  />
 </p>
 
 ---
 
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 <p align="center">
-Code is not just about logic, it is about experience.
+  <i>Code isn’t just about logic — it’s about experience.</i>
 </p>
 
 </div>
