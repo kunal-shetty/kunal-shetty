@@ -9,11 +9,10 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 ## Languages & Tools
 
-<p align="center">
+
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,js,ts,html,css,bootstrap,tailwind,react,nextjs,jquery,threejs,django,fastapi,nodejs,laravel,php,aws,vercel,netlify,firebase,mongodb,mysql,postgres,supabase,prisma,pytorch,tensorflow,arduino,androidstudio,postman,git,gitlab,vscode,figma,notion,pycharm&theme=dark&perline=13"></img>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,js,ts,html,css,bootstrap,tailwind,react,nextjs,jquery,threejs,django,fastapi,nodejs,laravel,php,aws,vercel,netlify,firebase,mongodb,mysql,postgres,supabase,prisma,pytorch,tensorflow,arduino,androidstudio,postman,git,gitlab,vscode,figma,notion,pycharm&theme=dark&perline=14"></img>
   </a>
-</p>
 
 ---
 
