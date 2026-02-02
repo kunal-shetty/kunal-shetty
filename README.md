@@ -6,9 +6,9 @@ I focus on turning complex ideas into **clean, scalable, and meaningful products
 I’ve worked across **modern web**, **backend systems**, and **AI-driven tools**, and I enjoy the full journey — from system design and debugging to shipping polished user experiences.
 
 ---
+
 ## Languages & Tools
 
-![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
