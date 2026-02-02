@@ -5,6 +5,7 @@ I focus on turning complex ideas into **clean, scalable, and meaningful products
 
 I’ve worked across **modern web**, **backend systems**, and **AI-driven tools**, and I enjoy the full journey — from system design and debugging to shipping polished user experiences.
 
+<p align="center"> <a href="https://www.linkedin.com/in/kunal-shetty-146287320/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/kunaallll/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://instagram.com/kunaaallllllllllllllllll" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 ---
 
 ## Languages & Tools
@@ -58,12 +59,6 @@ I care deeply about:
 - Exploring **AI-powered workflows** and intelligent systems  
 - Building end-to-end products solo  
 - Deepening system design and backend architecture skills  
-
----
-
-## Connect
-
-<p align="center"> <a href="https://www.linkedin.com/in/kunal-shetty-146287320/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/kunaallll/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://instagram.com/kunaaallllllllllllllllll" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 
 ---
 
