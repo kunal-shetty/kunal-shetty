@@ -8,7 +8,6 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 ---
 ## Languages & Tools
 
-### Core Languages
 ![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk)
@@ -19,22 +18,17 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 ---
 
-### Frameworks, Platforms & Tooling
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase)
-![Convex](https://img.shields.io/badge/Convex-111?style=flat-square)
-
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/Netlify-111?style=flat-square&logo=netlify)
-![OAuth](https://img.shields.io/badge/OAuth-111?style=flat-square)
 
 ---
 
