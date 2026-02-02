@@ -1,142 +1,92 @@
-<div align="center">
+# Hi, I’m Kunal 👋
 
-<!-- Top Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header"/>
+Full-Stack Developer with a strong passion for building technology that blends **creative design** with **practical functionality**.  
+I focus on turning complex ideas into **clean, scalable, and meaningful products**.
 
-<!-- Typing Intro -->
-<img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1200&color=F72585&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kunal+Shetty;Full-Stack+Developer;AI+%2F+ML+Explorer;Building+Products+That+Matter" 
-/>
-
-<br/>
-
-<h3 align="center">
-  Bridging creativity and technology to craft meaningful digital experiences
-</h3>
-
-<br/>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/kunal-shetty-146287320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/kunaallll/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://instagram.com/kunaaallllllllllllllllll" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+I’ve worked across **modern web**, **backend systems**, and **AI-driven tools**, and I enjoy every part of the process — from system design and debugging to shipping polished user experiences.
 
 ---
 
-<!-- About + Stats -->
-<table width="100%">
-<tr>
-<td width="52%" valign="top">
+## Languages & Tools
 
-## 👋 About Me
+![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
 
-I’m a **Full-Stack Developer** focused on building **clean, scalable, and user-centric products**.
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
 
-My core stack revolves around **React, Next.js, and Node.js**, with a growing passion for **AI-powered systems and intelligent workflows**.
-
-I care deeply about **performance, architecture, and UI/UX**, and I enjoy turning complex problems into **simple, high-impact solutions**.
-
-</td>
-
-<td width="48%" valign="top" align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0" 
-/>
-
-</td>
-</tr>
-</table>
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase)
 
 ---
 
-## ⚙️ Tech Stack
+## What Drives Me
 
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,supabase,py,pytorch,cpp,docker,git,figma&theme=dark" 
-  />
-</p>
+What motivates me most is **problem-solving**.
 
----
+I enjoy breaking down complex challenges, identifying clean and scalable solutions, and transforming raw ideas into **polished, production-ready systems**. Whether it’s architecting robust backends, debugging intricate issues, or integrating **AI / ML capabilities**, I treat every challenge as an opportunity to grow and innovate.
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 AQI Monitoring  
-Real-time air quality monitoring platform with health-based recommendations and pollutant insights.  
-
-🔗 <a href="https://aqi-monitoring-app.vercel.app/" target="_blank">Live Demo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 SolvAI  
-AI-powered calculator solving advanced mathematical queries using the Wolfram Alpha API.  
-
-🔗 <a href="https://solvai.live" target="_blank">Live Demo</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Layoutrix  
-Design-to-code system that converts UI layouts into structured Next.js codebases.  
-
-🔗 <a href="https://layoutrix.netlify.app" target="_blank">Live Demo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💌 Unsent Letters  
-Anonymous platform for sharing private messages and emotional expressions securely.  
-
-🔗 <a href="https://unsent-letters.xyz" target="_blank">Live Demo</a>
-
-</td>
-</tr>
-</table>
+I care deeply about:
+- Clean architecture and scalability  
+- Performance and reliability  
+- Thoughtful UI/UX and design thinking  
+- Building software that *actually gets used*
 
 ---
 
-<!-- Metrics Header -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&text=Developer%20Metrics&fontAlign=50&animation=fadeIn&fontColor=FFFFFF&fontSize=24&section=header&reversal=true"
-/>
+## Selected Work
 
-<p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=kunal-shetty&theme=dark&hide_border=true&stroke=F72585&background=0D1117" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585" 
-    width="45%" 
-  />
-</p>
+- **Layoutrix** — A seamless design-to-code generator that turns UI concepts into structured, developer-friendly Next.js projects  
+  → https://layoutrix.netlify.app  
+
+- **SolvAI** — Smart AI-powered calculator with advanced mathematical capabilities using the Wolfram Alpha API  
+  → https://solvai.live  
+
+- **AQI Monitoring** — Real-time air quality monitoring platform with health-based insights  
+  → https://aqi-monitoring-app.vercel.app  
+
+- **Unsent Letters** — Anonymous platform for sharing personal messages securely  
+  → https://unsent-letters.xyz  
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+## GitHub
 
-<p align="center">
-  <i>Code isn’t just about logic — it’s about experience.</i>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kunal-shetty&show_icons=true&hide_border=true&theme=transparent" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-shetty&layout=compact&hide_border=true&theme=transparent" />
+
+---
+
+## Currently
+
+- Exploring **AI-powered workflows** and intelligent systems  
+- Building end-to-end products solo  
+- Deepening system design and backend architecture skills  
+
+---
+
+## Connect
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin)
+https://www.linkedin.com/in/kunal-shetty-146287320/
+
+![LeetCode](https://img.shields.io/badge/LeetCode-111?style=flat-square&logo=leetcode)
+https://leetcode.com/u/kunaallll/
+
+![Instagram](https://img.shields.io/badge/Instagram-111?style=flat-square&logo=instagram)
+https://instagram.com/kunaaallllllllllllllllll
+
+![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail)
+kunalshetty567@gmail.com
+
+---
+
+> I’m always curious, always learning, and always building.
