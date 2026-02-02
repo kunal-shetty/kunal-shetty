@@ -7,21 +7,82 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 ---
 
-## Languages & Tools
-
+### Programming Languages
+![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
+
+---
+
+### Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-111?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-111?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jQuery-111?style=flat-square&logo=jquery)
+
+---
+
+### Backend, APIs & Auth
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express-111?style=flat-square&logo=express)
+![Django](https://img.shields.io/badge/Django-111?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/Flask-111?style=flat-square&logo=flask)
+![PHP](https://img.shields.io/badge/PHP-111?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-111?style=flat-square&logo=laravel)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-111?style=flat-square)
+![Clerk](https://img.shields.io/badge/Clerk-111?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-111?style=flat-square)
+
+---
+
+### Databases & Realtime
+![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
 ![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=flat-square&logo=firebase)
+![Convex](https://img.shields.io/badge/Convex-111?style=flat-square)
+
+---
+
+### AI / ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=flat-square&logo=tensorflow)
+![NumPy](https://img.shields.io/badge/NumPy-111?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-111?style=flat-square&logo=pandas)
+
+---
+
+### Mobile & Embedded
+![Android](https://img.shields.io/badge/Android-111?style=flat-square&logo=android)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-111?style=flat-square)
+
+---
+
+### DevOps, Cloud & Hosting
+![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-111?style=flat-square&logo=netlify)
+
+---
+
+### Version Control & Tooling
+![Git](https://img.shields.io/badge/Git-111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/VS%20Code-111?style=flat-square&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-111?style=flat-square&logo=figma)
 
 ---
 
