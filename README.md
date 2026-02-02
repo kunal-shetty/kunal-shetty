@@ -1,7 +1,7 @@
 # Hi, I’m Kunal 👋
 
-Full-Stack Developer passionate about building technology that blends **creative design** with **practical functionality**.  
-I focus on turning complex ideas into **clean, scalable, and meaningful products**.
+Full-Stack Developer passionate about building technology that blends **creative design** with **practical funcionality**.  
+I focus on turning complex ideas into **clean, scalable, and meaningful products**.t
 
 I’ve worked across **modern web**, **backend systems**, and **AI-driven tools**, and I enjoy the full journey — from system design and debugging to shipping polished user experiences.
 
@@ -9,25 +9,7 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 ## Languages & Tools
 
-![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
-
-![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-111?style=flat-square&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-111?style=flat-square&logo=netlify)
-
+https://skillicons.dev/icons?i=cpp,java,python,js,ts,mysql,react,nextjs,nodejs,tailwind,postgres,mongodb,supabase,docker,aws,netlify,vercel&theme=dark
 ---
 
 ## What Drives Me
