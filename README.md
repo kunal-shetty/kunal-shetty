@@ -9,7 +9,11 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 ## Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,mysql,react,nextjs,nodejs,tailwind,postgres,mongodb,supabase,docker,aws,netlify,vercel&theme=dark"></img>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,mysql,react,nextjs,nodejs,tailwind,postgres,mongodb,supabase,docker,aws,netlify,vercel&theme=dark"&perline=10></img>
+  </a>
+</p>
 ---
 
 ## What Drives Me
