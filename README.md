@@ -15,7 +15,6 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
-
 ---
 
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
