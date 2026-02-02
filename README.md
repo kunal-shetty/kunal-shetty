@@ -14,13 +14,11 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql)
-
 ![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs)
 ![Tailwind](https://img.shields.io/badge/Tailwind-111?style=flat-square&logo=tailwindcss)
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat-square&logo=docker)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=flat-square&logo=mysql)
 ![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase)
