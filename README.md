@@ -66,7 +66,7 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 - ☀️ **[Weather App](https://github.com/kunal-shetty/weather-app)** – Simple and accurate weather forecasting app  
 - 📝 **[Notes App](https://github.com/kunal-shetty/notes-app)** – Minimal app for quick note-taking  
 - 💌 **[Letters](https://github.com/kunal-shetty/letters)** – Anonymous confession and messaging platform  
-- 🏢 **[Soimate](https://github.com/kunal-shetty/soimate)** – Modern landing page and dashboard
+- 🏢 **[Soilmate](https://github.com/kunal-shetty/soilmate-landing-page)** – Modern landing page and dashboard
 
 ---
 
