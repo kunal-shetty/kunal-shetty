@@ -47,18 +47,27 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 
 - 🤝 **[SahayPlus](https://github.com/kunal-shetty/sahayplus)** – Support app for caretakers and caregivers  
 - 💊 **[MedEasy](https://github.com/kunal-shetty/medeasy)** – AI-powered explanations for complex medical reports  
+- 🧠 **[Brain Tumor Classification](https://github.com/kunal-shetty/brain-tumor-classification)** – Deep learning–based brain tumor detection system  
+- 🩻 **[Chest X-Ray Disease Prediction](https://github.com/kunal-shetty/chest-x-ray-disease-prediction)** – AI model for detecting diseases from chest X-rays  
 - 🧪 **[AI Playground](https://github.com/kunal-shetty/ai-playground)** – Multi-agent collaboration system for refined AI outputs  
+- 🤖 **[Neptune](https://github.com/kunal-shetty/neptune)** – RAG-based conversational chatbot  
+- 📍 **[FindMyLocal](https://github.com/kunal-shetty/findmylocal-app)** – Discover local vendors and help small businesses grow  
 - 🧱 **[DragNDrop](https://github.com/kunal-shetty/dragndrop)** – Fully customizable, block-based website builder  
-- 📍 **[FindMyLocal](https://github.com/kunal-shetty/findmylocal)** – Discover local vendors and help small businesses grow  
-- 🏠 **[BuildMyHome](https://github.com/kunal-shetty/buildmyhome)** – Platform connecting customers with local woodworkers  
 - 🌐 **[Website Generator](https://github.com/kunal-shetty/website-generator)** – Generate visually appealing websites from designs  
+- 🏠 **[BuildMyHome](https://github.com/kunal-shetty/buildmyhome)** – Platform connecting customers with local woodworkers  
 - 📚 **[SnapNoteX](https://github.com/kunal-shetty/snapnotex)** – Collaborative notes platform designed for students  
 - 💰 **[Finance Management App](https://github.com/kunal-shetty/finance-management-app)** – Manage expenses, income, and finances  
+- 📊 **[Expense Tracker Dashboard](https://github.com/kunal-shetty/expense-tracker)** – Python-based expense tracker with database and dashboard  
 - 🧑‍💻 **[Portfolio Builder](https://github.com/kunal-shetty/portfolio-builder)** – Create and export developer portfolios  
 - 📄 **[Resume Builder](https://github.com/kunal-shetty/resume-builder)** – Build clean, professional resumes effortlessly  
 - 📘 **[README Generator](https://github.com/kunal-shetty/readme-generator)** – Instantly generate clean, structured README files  
-- 📆 **[Habit Tracker](https://github.com/kunal-shetty/habitTracker)** – Track habits and build long-term consistency  
+- 📆 **[Habit Tracker](https://github.com/kunal-shetty/habittracker)** – Track habits and build long-term consistency  
 - 🌫️ **[AQI Monitoring App](https://github.com/kunal-shetty/aqi-monitoring-app)** – Real-time air quality monitoring with insights  
+- 😐 **[Face Emotion Detection](https://github.com/kunal-shetty/face-emotion-detection)** – Python-based real-time facial emotion recognition  
+- 🎮 **[Mines Game](https://github.com/kunal-shetty/game-mines)** – Recreation of the Mines game from Stake  
+- 🐱 **[Cat Slot Machine](https://github.com/kunal-shetty/cat-slot-machine)** – Slot machine game where rolling cats earns rewards  
+- 📱 **[Moments](https://github.com/kunal-shetty/moments)** – Social app combining Snapchat and Instagram features  
+- ✅ **[Todo App](https://github.com/kunal-shetty/do)** – Complete cross-platform todo app built with React Native  
 - 🎵 **[Music Player](https://github.com/kunal-shetty/music-player)** – Spotify-inspired music streaming clone  
 - 🎨 **[MS Paint Clone](https://github.com/kunal-shetty/ms-paint-clone)** – Browser-based recreation of classic Microsoft Paint  
 - 🟩 **[Wordle](https://github.com/kunal-shetty/wordle)** – Wordle clone built from scratch  
@@ -66,7 +75,10 @@ I’ve worked across **modern web**, **backend systems**, and **AI-driven tools*
 - ☀️ **[Weather App](https://github.com/kunal-shetty/weather-app)** – Simple and accurate weather forecasting app  
 - 📝 **[Notes App](https://github.com/kunal-shetty/notes-app)** – Minimal app for quick note-taking  
 - 💌 **[Letters](https://github.com/kunal-shetty/letters)** – Anonymous confession and messaging platform  
-- 🏢 **[Soilmate](https://github.com/kunal-shetty/soilmate-landing-page)** – Modern landing page and dashboard
+- 🐍 **[Snake Game](https://github.com/kunal-shetty/snake-game-java)** – Classic Snake game built in Java  
+- 🐦 **[Flappy Angry Bird](https://github.com/kunal-shetty/flappy-angry-bird)** – Flappy Bird with Angry Birds characters (Java)  
+- 🚌 **[Bus Ticket Booking System](https://github.com/kunal-shetty/bus-ticket-booking-system)** – Java-based bus ticket reservation system  
+- 🌱 **[SoilMate](https://github.com/kunal-shetty/soilmate-landing-page)** – Surveillance agrobot hardware project for monitoring agricultural fields
 
 ---
 
