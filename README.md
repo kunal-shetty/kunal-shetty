@@ -1,26 +1,22 @@
 # Hi, I'm Kunal 👋
 
-AI engineer and full-stack developer. I build and ship AI products end to end, from architecture to deployment.
+📍 **Mumbai** | 🤖 **AI engineer** | 🚀 **Founder of Snapnotes**
 
-- Solo founder of **Snapnotes**, an AI edtech platform with paying users on web and Android
-- 2300+ rated on LeetCode (650+ solved)
-- Open to AI engineering, AI product engineering, and SDE roles
+Building AI products end to end. Open to full-time AI engineering, AI product and SDE roles.
 
-## Featured work
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Snapnotes**: AI edtech platform with 30+ features, 7 AI pipelines, real-time multiplayer quizzes, and payments. Live on web and Android.
-- **Deimos**: terminal-native autonomous coding agent with a 3-layer persistent memory system.
-- **Echo**: voice AI finance assistant that turns speech into structured expense records in under 2 seconds.
+## Start Here
 
-More projects are in my repositories.
+- 📝 **[Snapnotes](https://snapnotes.in)** - turn notes into flashcards, quizzes, mind maps and audio
+- 🤖 **[Deimos](https://github.com/kunal-shetty/deimos)** - a terminal coding agent that runs your tests before it calls the job done
+- 🎙️ **[Echo](https://echomoney.vercel.app)** - say what you spent, get a structured record in under 2 seconds
 
-## Tech
+## Find Me
 
-**Languages:** C++, Python, TypeScript, JavaScript, SQL
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, FastAPI, PostgreSQL, Redis, WebSockets
-**AI:** RAG, pgvector, agents (MCP), Gemini, Groq, Whisper
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/kunal-shetty-146287320/) · [LeetCode](https://leetcode.com/u/kunaallll/) · [Email](mailto:kunalshetty567@gmail.com)
+[Portfolio](https://kunal-shetty.vercel.app) · [Resume](https://github.com/kunal-shetty/kunal-shetty/blob/main/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/kunal-shetty-146287320/) · [LeetCode](https://leetcode.com/u/kunaallll/) · [Email](mailto:kunalshetty567@gmail.com)

@@ -1432,6 +1432,157 @@
         grid-template-columns: 1fr
       }
     }
+
+    /* ── PROJECTS: FEATURED ROWS ── */
+    .proj-grid {
+      grid-template-columns: 1fr
+    }
+
+    .proj-card {
+      flex-direction: row
+    }
+
+    .proj-card .proj-screenshot {
+      flex: 0 0 42%;
+      width: auto;
+      height: auto;
+      min-height: 340px;
+      border-radius: 0
+    }
+
+    .proj-card .proj-img {
+      position: absolute;
+      inset: 0;
+      object-position: top center
+    }
+
+    .proj-body {
+      padding: 1.75rem 2rem;
+      gap: 0
+    }
+
+    .proj-card .proj-name {
+      font-size: 1.6rem
+    }
+
+    .proj-pitch {
+      font-size: .95rem;
+      line-height: 1.6;
+      color: var(--ink2)
+    }
+
+    .proj-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin: 1.25rem 0;
+      padding: 1rem 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border)
+    }
+
+    .proj-stat b {
+      display: block;
+      font-family: 'Playfair Display', serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 1.1;
+      color: var(--ink)
+    }
+
+    .proj-stat span {
+      display: block;
+      margin-top: .2rem;
+      font-size: .72rem;
+      font-weight: 500;
+      color: var(--muted)
+    }
+
+    .proj-points {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: .4rem
+    }
+
+    .proj-points li {
+      position: relative;
+      padding-left: 1rem;
+      font-size: .85rem;
+      line-height: 1.5;
+      color: var(--ink2)
+    }
+
+    .proj-points li::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: .58em;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--accent)
+    }
+
+    .proj-foot {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: .75rem;
+      margin-top: auto;
+      padding-top: 1.25rem
+    }
+
+    .proj-foot .exp-tags {
+      margin-top: 0
+    }
+
+    .proj-foot .proj-link {
+      margin-top: 0
+    }
+
+    .proj-term {
+      position: absolute;
+      inset: 0;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: .6rem;
+      background: var(--ink);
+      color: #b0ada6;
+      font-family: ui-monospace, Consolas, 'Courier New', monospace;
+      font-size: .78rem;
+      line-height: 1.5
+    }
+
+    .proj-term b {
+      color: var(--cream);
+      font-weight: 500
+    }
+
+    .proj-term i {
+      color: #d9a08a;
+      font-style: normal
+    }
+
+    @media(max-width:760px) {
+      .proj-card {
+        flex-direction: column
+      }
+
+      .proj-card .proj-screenshot {
+        flex: none;
+        width: 100%;
+        min-height: 0;
+        height: 220px
+      }
+
+      .proj-body {
+        padding: 1.4rem
+      }
+    }
   </style>
 </head>
 
@@ -1467,14 +1618,13 @@
     <div class="blob blob2"></div>
     <div class="blob blob3"></div>
     <div class="hero-content">
-      <div class="hero-badge"><i></i> Available for freelance work</div>
-      <h1 class="hero-title">Hi, I'm <span class="hi">Kunal.</span><span class="sub">I build things for the web.</span>
+      <div class="hero-badge"><i></i> Open to full-time AI engineering, AI product and SDE roles</div>
+      <h1 class="hero-title">Hi, I'm <span class="hi">Kunal.</span><span class="sub">I ship AI products.</span>
       </h1>
-      <p class="hero-sub">Full-stack developer crafting <b>AI-powered products</b>, scalable backends, and interfaces
-        that feel alive.</p>
+      <p class="hero-sub">Founder of <b>Snapnotes</b>. I own the whole build: architecture, backend, interface and deployment, from idea to production.</p>
       <div class="hero-btns">
         <button class="btn-p" onclick="go(null,'projects')">See My Work →</button>
-        <button class="btn-s" onclick="go(null,'contact')">Let's Talk</button>
+        <a class="btn-s" href="Resume.pdf" target="_blank" rel="noopener">View Resume</a>
       </div>
     </div>
 
@@ -1484,28 +1634,22 @@
   <section id="about">
     <div class="container">
       <div class="sec-label">About me</div>
-      <h2 class="sec-title reveal">Building with purpose,<br>shipping with care.</h2>
+      <h2 class="sec-title reveal">Models guess.<br>I build the parts that check.</h2>
       <div class="about-grid" style="margin-top:2.5rem">
         <div>
           <div class="stat-cards reveal">
-            <div class="stat-card"><span class="stat-num">30+</span><span class="stat-lbl">Projects Shipped</span></div>
-            <div class="stat-card"><span class="stat-num">5+</span><span class="stat-lbl">AI Projects</span></div>
-            <div class="stat-card"><span class="stat-num">2+</span><span class="stat-lbl">Years Building</span></div>
-            <div class="stat-card"><span class="stat-num">∞</span><span class="stat-lbl">Curiosity</span></div>
+            <div class="stat-card"><span class="stat-num">30+</span><span class="stat-lbl">Features Live in Snapnotes</span></div>
+            <div class="stat-card"><span class="stat-num">7</span><span class="stat-lbl">AI Pipelines in Production</span></div>
+            <div class="stat-card"><span class="stat-num">2300+</span><span class="stat-lbl">Peak LeetCode Rating</span></div>
+            <div class="stat-card"><span class="stat-num">731</span><span class="stat-lbl">LeetCode Problems Solved</span></div>
           </div>
         </div>
         <div class="about-text">
-          <p class="reveal d1">I thrive across the entire stack — from architecting scalable backends to designing
-            interfaces people actually love. I care deeply about the craft.</p>
-          <p class="reveal d2">Currently exploring where <b>AI/ML meets real-world product design</b>. If it ships,
-            solves a real problem, and looks good doing it — that's my sweet spot.</p>
-          <p class="reveal d3">When not coding: exploring new AI tools, contributing to open source, and dreaming up
-            side projects that push what's possible.</p>
+          <p class="reveal d1">I'm a full-stack engineer and solo builder based in Mumbai, studying IT at Thakur College of Science and Commerce. I take AI products from idea to launch and own everything in between.</p>
+          <p class="reveal d2">I like the unglamorous parts of <b>AI products</b>: schemas, retries, payments and tests. Deimos runs your tests before it calls a job done, and Echo validates every record before it reaches the database.</p>
+          <p class="reveal d3">Finalist at NMIMS Cyber Cypher 5.0, and I competed among 40,000+ participants in the India AI Impact Buildathon. Codeforces Specialist.</p>
           <div class="chips reveal d4">
-            <span class="chip">React &amp; Next.js</span><span class="chip">Node.js</span><span class="chip">OpenAI
-              API</span><span class="chip">Claude API</span><span class="chip">PostgreSQL</span><span
-              class="chip">TypeScript</span><span class="chip">Supabase</span><span class="chip">Python</span><span
-              class="chip">Deep Learning</span>
+            <span class="chip">React &amp; Next.js</span><span class="chip">Node.js</span><span class="chip">FastAPI</span><span class="chip">Groq</span><span class="chip">Gemini</span><span class="chip">PostgreSQL</span><span class="chip">TypeScript</span><span class="chip">RAG</span><span class="chip">MCP</span>
           </div>
         </div>
       </div>
@@ -1668,9 +1812,7 @@
         </div>
       </div>
       <div class="skills-extras reveal d3">
-        <span class="etag">Gemini</span><span class="etag">Docker</span><span class="etag">Vercel</span><span
-          class="etag">Netlify</span><span class="etag">Git</span><span class="etag">REST APIs</span><span
-          class="etag">CLI Tools</span><span class="etag">Figma</span>
+        <span class="etag">Gemini</span><span class="etag">Groq</span><span class="etag">RAG</span><span class="etag">MCP</span><span class="etag">FastAPI</span><span class="etag">WebSockets</span><span class="etag">AWS EC2</span><span class="etag">Cloudflare R2</span><span class="etag">Firebase</span><span class="etag">GitHub Actions</span>
       </div>
     </div>
   </section>
@@ -1684,132 +1826,95 @@
         project or source code.</p>
       <div class="proj-grid">
 
-        <a class="proj-card reveal" href="https://ai-playgroundx.vercel.app" target="_blank" rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#e8e0f8,#d0d8f8)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#5a3d8a" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#4a35a0">Add screenshot</span>
-            </div>
+        <a class="proj-card reveal" href="https://snapnotes.in" target="_blank" rel="noopener">
+          <div class="proj-screenshot" style="background:#fffbf0">
+            <img class="proj-img" style="object-fit:contain;padding:1rem" src="assets/snapnotes.webp" alt="Snapnotes home page" loading="lazy">
           </div>
           <div class="proj-body">
             <div class="proj-head">
-              <div class="proj-name">AI Playground</div>
-              <span class="proj-tag" style="background:var(--lav);color:#4a35a0">AI</span>
+              <div class="proj-name">Snapnotes</div>
+              <span class="proj-tag" style="background:var(--coral);color:#7a3a18">Founder</span>
             </div>
-            <div class="proj-desc">Multi-agent AI system with live debates between models. Built with OpenAI + Claude
-              APIs.</div>
-            <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
+            <div class="proj-pitch">Turns notes into flashcards, quizzes, mind maps and audio. Built solo and live on web and Android.</div>
+            <div class="proj-stats">
+              <div class="proj-stat"><b>30+</b><span>Features live</span></div>
+              <div class="proj-stat"><b>7</b><span>AI pipelines</span></div>
+              <div class="proj-stat"><b>2</b><span>Platforms</span></div>
+            </div>
+            <ul class="proj-points">
+              <li>Multiplayer quiz rooms with live leaderboards and QR joining</li>
+              <li>Gemini and Groq alongside local Whisper and Piper</li>
+              <li>Razorpay payments with HMAC verification, plus semantic search on pgvector</li>
+            </ul>
+            <div class="proj-foot">
+              <div class="exp-tags"><span class="exp-tag">Next.js</span><span class="exp-tag">pgvector</span><span class="exp-tag">WebSockets</span></div>
+              <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
+            </div>
           </div>
         </a>
 
-        <a class="proj-card reveal d1" href="https://buildin-it.vercel.app" target="_blank" rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#fde8d8,#f8d8c8)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#8a3d20" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#7a2d20">Add screenshot</span>
+        <a class="proj-card reveal d1" href="https://github.com/kunal-shetty/deimos" target="_blank" rel="noopener">
+          <div class="proj-screenshot" style="background:#1a1916">
+            <div class="proj-term" aria-hidden="true">
+              <div><i>$</i> <b>curl -fsSL .../install.sh | sh</b></div>
+              <div><i>$</i> <b>deimos</b></div>
+              <div>think &rarr; act &rarr; observe &rarr; run tests</div>
+              <div><i>tests fail</i> &rarr; back to the agent</div>
+              <div><i>tests pass</i> &rarr; done</div>
             </div>
           </div>
           <div class="proj-body">
             <div class="proj-head">
-              <div class="proj-name">BuildIt</div>
-              <span class="proj-tag" style="background:var(--coral);color:#7a3a18">SaaS</span>
+              <div class="proj-name">Deimos</div>
+              <span class="proj-tag" style="background:var(--lilac);color:#5a3d8a">Agent</span>
             </div>
-            <div class="proj-desc">No-code website builder with draggable components and instant export.</div>
-            <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
+            <div class="proj-pitch">An open-source coding agent for your terminal that runs your tests before it calls the job done.</div>
+            <div class="proj-stats">
+              <div class="proj-stat"><b>10+</b><span>Developer tools</span></div>
+              <div class="proj-stat"><b>3</b><span>Memory layers</span></div>
+              <div class="proj-stat"><b>12</b><span>Scripted evals</span></div>
+            </div>
+            <ul class="proj-points">
+              <li>Sends test failures back to the agent automatically</li>
+              <li>Shows a diff for every edit and can undo any turn</li>
+              <li>Remembers context across sessions with working, episodic and semantic memory</li>
+            </ul>
+            <div class="proj-foot">
+              <div class="exp-tags"><span class="exp-tag">Python</span><span class="exp-tag">Groq</span><span class="exp-tag">MCP</span></div>
+              <span class="proj-link">GitHub <span class="proj-arrow">↗</span></span>
+            </div>
           </div>
         </a>
 
-        <a class="proj-card reveal d2" href="https://med-easy-app.vercel.app" target="_blank" rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#d8f0e0,#c8ece0)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#2d5c2c" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#2d5c2c">Add screenshot</span>
-            </div>
+        <a class="proj-card reveal d2" href="https://echomoney.vercel.app" target="_blank" rel="noopener">
+          <div class="proj-screenshot" style="background:#02060f">
+            <img class="proj-img" src="assets/echo.webp" alt="Echo welcome screen" loading="lazy">
           </div>
           <div class="proj-body">
             <div class="proj-head">
-              <div class="proj-name">MedEasy</div>
-              <span class="proj-tag" style="background:var(--sage);color:#2d5c2c">AI</span>
+              <div class="proj-name">Echo</div>
+              <span class="proj-tag" style="background:var(--sage);color:#2d5c2c">Voice AI</span>
             </div>
-            <div class="proj-desc">AI-powered medical report summarization. Complex reports made simple.</div>
-            <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
-          </div>
-        </a>
-
-        <a class="proj-card reveal d3" href="https://threaad.netlify.app" target="_blank" rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#d8e8f8,#c8dff0)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#1b4d7a" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#1b4d7a">Add screenshot</span>
+            <div class="proj-pitch">Say what you spent and get a structured expense record, then ask about your spending out loud.</div>
+            <div class="proj-stats">
+              <div class="proj-stat"><b>&lt;2s</b><span>Voice to record</span></div>
+              <div class="proj-stat"><b>4</b><span>Voice intents</span></div>
+              <div class="proj-stat"><b>10+</b><span>Expense dimensions</span></div>
             </div>
-          </div>
-          <div class="proj-body">
-            <div class="proj-head">
-              <div class="proj-name">Thread</div>
-              <span class="proj-tag" style="background:var(--sky);color:#1b4d7a">Platform</span>
+            <ul class="proj-points">
+              <li>Handles speech locally and sends reasoning to Groq</li>
+              <li>Checks every record against a strict schema before saving</li>
+              <li>Understands follow-ups like "change the last one to 600"</li>
+            </ul>
+            <div class="proj-foot">
+              <div class="exp-tags"><span class="exp-tag">Next.js</span><span class="exp-tag">FastAPI</span><span class="exp-tag">Groq</span></div>
+              <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
             </div>
-            <div class="proj-desc">AI-native collaborative writing platform for modern teams.</div>
-            <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
-          </div>
-        </a>
-
-        <a class="proj-card reveal" href="https://github.com/kunal-shetty/vibecodex" target="_blank" rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#f0e8ff,#e8d5f5)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#5a3d8a" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#5a3d8a">Add screenshot</span>
-            </div>
-          </div>
-          <div class="proj-body">
-            <div class="proj-head">
-              <div class="proj-name">Vibecodex</div>
-              <span class="proj-tag" style="background:var(--lilac);color:#5a3d8a">CLI</span>
-            </div>
-            <div class="proj-desc">CLI for full-stack app scaffolding. Generate entire project structure in seconds.
-            </div>
-            <span class="proj-link">GitHub <span class="proj-arrow">↗</span></span>
-          </div>
-        </a>
-
-        <a class="proj-card reveal d1" href="https://complete-portfolio-builder.netlify.app/" target="_blank"
-          rel="noopener">
-          <div class="proj-screenshot" style="background:linear-gradient(135deg,#fef8d8,#faf0c0)">
-            <div class="proj-screenshot-hint">
-              <div class="proj-screenshot-icon"><svg fill="none" stroke="#6a5a10" stroke-width="2" viewBox="0 0 24 24">
-                  <rect x="3" y="3" width="18" height="13" rx="2" />
-                  <path d="M8 21h8M12 17v4" />
-                </svg></div>
-              <span class="proj-screenshot-label" style="color:#6a5a10">Add screenshot</span>
-            </div>
-          </div>
-          <div class="proj-body">
-            <div class="proj-head">
-              <div class="proj-name">Portfolio Builder</div>
-              <span class="proj-tag" style="background:var(--butter);color:#6a5a10">SaaS</span>
-            </div>
-            <div class="proj-desc">Generate a polished portfolio website instantly. No design skills required.</div>
-            <span class="proj-link">View live <span class="proj-arrow">↗</span></span>
           </div>
         </a>
 
       </div>
-      <div class="see-all reveal"><a href="https://github.com/kunal-shetty" target="_blank" rel="noopener">See all 30+
-          projects on GitHub →</a></div>
+      <div class="see-all reveal"><a href="https://github.com/kunal-shetty" target="_blank" rel="noopener">See all 62 public repos on GitHub →</a></div>
     </div>
   </section>
   <!-- EXPERIENCE -->
@@ -1819,7 +1924,7 @@
       <h2 class="sec-title reveal">Where I've worked.</h2>
       <div class="exp-list">
 
-        <!-- AI / Projects -->
+        <!-- Snapnotes -->
         <div class="exp-card reveal d2">
           <div class="exp-dot-wrap">
             <div class="exp-dot" style="background:var(--sage);"></div>
@@ -1827,25 +1932,25 @@
           </div>
           <div>
             <div class="exp-top">
-              <span class="exp-role">AI Systems Developer</span>
-              <span class="exp-company" style="background:var(--sage);color:#2d5c2c">Projects & Open Source</span>
+              <span class="exp-role">Founder</span>
+              <span class="exp-company" style="background:var(--sage);color:#2d5c2c">Snapnotes</span>
               <span class="exp-period">Jan 2026 – Present</span>
             </div>
             <div class="exp-desc">
-              Building multi-agent AI systems, RAG pipelines, and developer tools. Created production-grade apps
-              with OCR, NLP, and real-time AI orchestration, alongside maintaining open-source CLI and UI libraries.
+              Architected and solo-shipped an AI edtech platform across web and Android, with 30+ features and 7 AI pipelines, balancing Gemini and Groq with local Whisper and Piper. Own the full stack, including WebSocket quiz rooms, Razorpay payments and custom JWT auth.
             </div>
             <div class="exp-tags">
               <span class="exp-tag">Next.js</span>
-              <span class="exp-tag">LangChain</span>
-              <span class="exp-tag">RAG</span>
-              <span class="exp-tag">Ollama</span>
-              <span class="exp-tag">Open Source</span>
+              <span class="exp-tag">pgvector</span>
+              <span class="exp-tag">WebSockets</span>
+              <span class="exp-tag">Gemini</span>
+              <span class="exp-tag">Groq</span>
+              <span class="exp-tag">Firebase</span>
             </div>
           </div>
         </div>
 
-        <!-- Hyperbot -->
+        <!-- Classbot -->
         <div class="exp-card reveal">
           <div class="exp-dot-wrap">
             <div class="exp-dot" style="background:var(--accent)"></div>
@@ -1853,13 +1958,13 @@
           </div>
           <div>
             <div class="exp-top">
-              <span class="exp-role">Full-Stack Developer Intern</span>
-              <span class="exp-company" style="background:var(--peach);color:#7a4a12">Hyperbot Technologies</span>
+              <span class="exp-role">SDE Intern</span>
+              <span class="exp-company" style="background:var(--peach);color:#7a4a12">Classbot</span>
               <span class="exp-period">Jul 2025 – Jan 2026</span>
             </div>
             <div class="exp-desc">
-              Built and optimized 20+ REST APIs and SQL data models, reducing response time by 25%+.
-              Developed responsive dashboards for 300+ users and resolved 30+ production issues to improve stability.
+              Built and optimized 20+ REST APIs and SQL data models, cutting average response times by over 25%.
+              Designed responsive dashboards for 300+ instructors and resolved 30+ production issues to improve stability.
             </div>
             <div class="exp-tags">
               <span class="exp-tag">HTML</span>
@@ -1872,32 +1977,6 @@
             </div>
           </div>
         </div>
-
-        <!-- Placement Coordinator -->
-        <div class="exp-card reveal d1">
-          <div class="exp-dot-wrap">
-            <div class="exp-dot" style="background:var(--periwinkle)"></div>
-            <div class="exp-line"></div>
-          </div>
-          <div>
-            <div class="exp-top">
-              <span class="exp-role">Student Placement Coordinator</span>
-              <span class="exp-company" style="background:var(--lav);color:#4a35a0">TCSC</span>
-              <span class="exp-period">Oct 2024 – Jun 2025</span>
-            </div>
-            <div class="exp-desc">
-              Coordinated campus drives and managed data for 2k+ students, increasing placement participation by 20%+
-              through structured tracking and improved reporting workflows.
-            </div>
-            <div class="exp-tags">
-              <span class="exp-tag">Data Management</span>
-              <span class="exp-tag">Coordination</span>
-              <span class="exp-tag">Analytics</span>
-            </div>
-          </div>
-        </div>
-
-
 
       </div>
     </div>
@@ -1920,15 +1999,14 @@
             </div>
             <span class="oss-name">Vibecodex</span>
           </div>
-          <div class="oss-desc">CLI tool for scaffolding full-stack apps with one command. Supports React, Next.js,
-            Express templates.</div>
+          <div class="oss-desc">Scaffolds full-stack web and mobile apps with one command, from 14 templates.</div>
           <div class="oss-meta">
             <span class="oss-stat"><svg fill="none" stroke="#d9a08a" stroke-width="2" viewBox="0 0 24 24"
                 stroke-linecap="round" stroke-linejoin="round">
                 <path d="M12 3v12"></path>
                 <polyline points="7 11 12 16 17 11"></polyline>
                 <path d="M5 21h14"></path>
-              </svg>500+</span>
+              </svg>660+</span>
             <span class="oss-stat"><svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"
                 stroke-linecap="round">
                 <circle cx="12" cy="12" r="3" />
@@ -1958,7 +2036,7 @@
                 <path d="M12 3v12"></path>
                 <polyline points="7 11 12 16 17 11"></polyline>
                 <path d="M5 21h14"></path>
-              </svg>500+</span>
+              </svg>660+</span>
             <span class="oss-stat">
               <div class="oss-lang-dot" style="background:#f7df1e"></div>JS
             </span>
@@ -1978,10 +2056,6 @@
           <div class="oss-desc">Beautiful, animated UI components for React, HTML & CSS. Copy a component, paste it in,
             ship your product.</div>
           <div class="oss-meta">
-            <span class="oss-stat"><svg fill="currentColor" viewBox="0 0 16 16">
-                <path
-                  d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" />
-              </svg>67</span>
             <span class="oss-stat">
               <div class="oss-lang-dot" style="background:#61dafb"></div>React
             </span>
@@ -2005,9 +2079,8 @@
     <div class="container">
       <div class="contact-inner">
         <div class="sec-label">Let's connect</div>
-        <h2 class="sec-title reveal">Always curious,<br>always building.</h2>
-        <p class="contact-sub reveal d1">Open to freelance projects, collaborations, or just a good conversation about
-          AI and the future of software.</p>
+        <h2 class="sec-title reveal">Need someone who ships<br>the whole thing?</h2>
+        <p class="contact-sub reveal d1">Open to full-time AI engineering, AI product and SDE roles. Happy to talk about AI and the future of software too.</p>
         <div class="contact-links reveal d2">
           <a class="c-link c-link-main" href="mailto:kunalshetty567@gmail.com">
             <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
